@@ -16,3 +16,10 @@ perl6 logger.p6 --filename.json --"name of selection" "show me"
 if you want save the result : 
 perl6 logger.p6 --filename.json --"name of selection" --"name of sub selection" exports
 ```
+# Example 
+
+### Using torch_kr.py 
+![B](https://github.com/synth-me/torch_kr/blob/main/resources/torch_gif.gif)
+
+### Using the perl logger
+![A](https://github.com/synth-me/torch_kr/blob/main/resources/perl6_gif.gif)
